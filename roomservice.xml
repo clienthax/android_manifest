@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="clienthax/android_device_huawei_ags_w09" path="device/huawei/ags_w09" remote="github" revision="lineage-15.1" />
+  <project name="clienthax/android_kernel_huawei_AGS-W09" path="kernel/huawei/ags_w09" remote="github" revision="android-7.x" />
+  <project name="clienthax/qcom_opensource_wlan_prima" path="kernel/huawei/ags_w09/vendor/qcom/opensource/wlan/prima" remote="github" revision="android-7.x" />
+</manifest>
